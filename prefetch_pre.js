@@ -1,1 +1,1 @@
-console.log("prefetch_pre4.0")
+console.log("prefetch_pre5.0")
